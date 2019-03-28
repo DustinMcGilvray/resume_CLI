@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/DustinMcGilvray/resume_CLI/issues"
   },
-  "homepage": "https://github.com/DustinMcGilvray/resume_CLI#readme"
+  "homepage": "https://github.com/DustinMcGilvray/resume_CLI#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  }
 }
