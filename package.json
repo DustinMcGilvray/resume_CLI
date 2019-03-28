@@ -1,0 +1,19 @@
+{
+  "name": "dustinmcgilvray_resume",
+  "version": "1.0.0",
+  "description": "Dustin McGilvray Resume'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DustinMcGilvray/resume_CLI.git"
+  },
+  "author": "Dustin McGilvray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DustinMcGilvray/resume_CLI/issues"
+  },
+  "homepage": "https://github.com/DustinMcGilvray/resume_CLI#readme"
+}

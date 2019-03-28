@@ -1,0 +1,97 @@
+{
+    "Summary": [
+        "Ambitious, results-driven full stack (MERN) web developer with proven success creating visually alluring, intuitive, and functional designs. Forward-thinking innovator with the ability to “see around corners,” continuously creating and improving to keep projects on track. Dynamic and approachable relationship builder with innate ability to develop instantaneous rapport with clients, employees/colleagues, leadership, and team. Inspiring leader who fosters collaboration and is most energized when creating to reach for success. "
+    ],
+    "Education": [
+        {
+        "Graduation Year": "2018", 
+        "Degree": "Certificate in Full Stack (M.E.R.N) Web Development",
+        "University": "Southern Methodist University",
+        "Location": "Online Virtual Classroom"
+        },
+        {
+        "Graduation Year": "2010", 
+        "Degree": "Master of Fine Arts in Ceramics",
+        "University": "Louisiana Tech University",
+        "Location": "Ruston, LA"
+        },
+        {
+        "Graduation Year": "2004", 
+        "Degree": "Bachelor of Fine Arts in Studio Art with a Concentration in Ceramics",
+        "University": "Baylor University",
+        "Location": "Waco, TX"
+        }
+    ],
+    "Professional Experience": [
+        {
+        "Year": "January 2019 - Present",
+        "Employer": "Trilogy Education",
+        "Position": "Teaching Assistant",
+        "Location": "Remote Virtual Classroom",
+        "Summary": "Full Stack Web Development Program online for SMU C.A.P.E through Trilogy Education. The 6-month course covers the Full M.E.R.N Stack with HTML5, CSS3, JavaScript, and jQuery."    
+        },
+        {
+        "Year": "2010 - Present",
+        "Employer": "DB McGilvray Ceramics, LLC",
+        "Position": "Co-Founder | Managing Partner",
+        "Location": "Tyler, TX",
+        "Summary": "Member of founding management team of a boutique ceramic manufacturing company specializing in small production runs, custom orders, mold and model making. Oversee daily operations and production goals with intent focus on consistent improvement opportunities. "
+        },
+        {
+        "Year": "2014 - 2016",
+        "Employer": "BFX Fire Appartus",
+        "Position": "Operations Manager | Parts, Service, & Warranty Manager",
+        "Location": "Keller, TX",
+        "Summary": "Tasked with oversight of day-to-day operations for manufacturer of Type 6 Wildland Fire Apparatuses for Government, State and private customers. Managed 20 direct reports within production team and collaborated with department heads regarding weekly production goals. Responsible for parts, service and warranty calls; shipping/receiving activities; inventory levels; production schedules; and quality control through various stages of manufacturing. Served as company representative at industry trade shows."
+        },
+        {
+        "Year": "2013 - 2014",
+        "Employer": "Techshop, Inc",
+        "Position": "General Manager",
+        "Location": "Round Rock, TX",
+        "Summary": "Provided full management responsibility for membership-based, open-access, DIY workshops and fabrication studios offering advanced manufacturing tools, software and instruction to users. Oversaw P&L and targeted financial profitability; recruitment, development and ongoing morale of staff; marketing, sales and branding direction; membership experiences and client expectations; and community engagement."
+        }   
+    ],
+    "Technical Skills": [
+        "HTML5", "CSS3", "JavaScript", "jQuery", 
+        "Node.js", "Slack", "Express.js", "React.js", 
+        "Database Theory", "MongoDB", "MySQL", "Command Line / Terminal", 
+        "Git", "Heroku", "Handlebars.js", "Bootstrap", "Materialize", "Skeleton"
+    ],
+    "Focal Projects": [
+        {
+        "Name": "Trading Grounds",
+        "Overview": "An educational application that simulates the stock market using current real time stock prices, allowing users to gain experience in buying, selling, and tracking a portfolio. This app also allows the users to experience the highs and lows of the stock market and gain experience while not risking the loss of actual capital.",
+        "Tech Stack": "HTML5 | CSS3 | Handlebars.js | MySQL Workbench | Materialize CSS Library",
+        "Link": "https://radiant-coast-91135.herokuapp.com/"       
+        },
+        {
+        "Name": "Clicky Game",
+        "Overview": "A Memory Game application built with React.js and themed on 1980’s Movie Soundtracks. ",
+        "Tech Stack": "React.js | HTML5 | CSS3 | JavaScript/JSX | ES6 | Bootstrap CSS Library",
+        "Link": "https://blooming-beach-30586.herokuapp.com/"       
+        },
+        {
+        "Name": "New York Times Search Engine",
+        "Overview": "This is a React-based article search application for the New York Times. It utilizes the React mounting lifecycle to query and display articles based on three criteria: search topic, start date and end date.",
+        "Tech Stack": "React.js | HTML5 | CSS3 | JSX | ES6 | Bootstrap CSS Library",
+        "Link": "https://agile-harbor-23067.herokuapp.com/"       
+        }
+    ],
+    "Core Aptitudes": [
+        "Operations Management", "Team Leadership", 
+        "Process Improvement", "Relationship Management", 
+        "Project Management", "Coaching & Training", 
+        "Operational Streamlining", "Recruitment & Staffing", 
+        "Conflict/Issue Resolution", "Employee Engagement", 
+        "Budget Oversight", "P&L / Financial Management"
+    ],
+    "Contact": [
+        "Email: DustinMcGilvray@gmail.com",
+        "Phone: (254) 640-2904",
+        "GitHub: https://github.com/DustinMcGilvray",
+        "LinkedIn: https://www.linkedin.com/in/dustinmcgilvray/",
+        "Website:  https://dustinmcgilvray.github.io/Portfolio/"
+    ]
+
+}
