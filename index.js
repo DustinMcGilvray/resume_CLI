@@ -2,7 +2,9 @@
 "use strict";
 
 var inquirer = require("inquirer");
+var cliFormat = require('cli-format');
 var chalk = require("chalk");
+var figlet = require("figlet");
 
 var response = chalk.bold.white;
 
@@ -16,7 +18,11 @@ var resumePrompts = {
 };
 
 function main() {
-    console.log("Hello, Welcome to Dustin McGilvray's CLI Resume.");
+    console.log(
+        chalk.yellow(
+            figlet.textSync('Dustin McGilvray', {font: "Small", horizontalLayout: "default", verticalLayout: "default"})));
+    console.log(
+        chalk.bold.yellow("Hello, Welcome to Dustin McGilvray's CLI Resume."));
     resumeHandler();
 };
 
