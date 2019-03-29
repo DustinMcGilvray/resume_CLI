@@ -18,6 +18,8 @@
   "homepage": "https://github.com/DustinMcGilvray/resume_CLI#readme",
   "dependencies": {
     "chalk": "^2.4.2",
+    "cli-format": "^3.0.9",
+    "figlet": "^1.2.1",
     "inquirer": "^6.2.2"
   }
 }

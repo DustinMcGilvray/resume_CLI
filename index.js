@@ -4,7 +4,7 @@
 var inquirer = require("inquirer");
 var chalk = require("chalk");
 
-var response = chalk.bold.green;
+var response = chalk.bold.white;
 
 var resume = require("./resume.json");
 
@@ -16,7 +16,7 @@ var resumePrompts = {
 };
 
 function main() {
-    console.log("Hello, My name is Dustin and Welcome to my Resume'!");
+    console.log("Hello, Welcome to Dustin McGilvray's CLI Resume.");
     resumeHandler();
 };
 
@@ -28,18 +28,19 @@ function resumeHandler() {
         var option = answer.resumeOptions;
         console.log(response("---------------------------------------------------"));
         resume[`${option}`].forEach(info => {
-            console.log(response("|  =>" + info));
+            console.log(response(info));
         });
+
         console.log(response("---------------------------------------------------"));
         inquirer
             .prompt({
                 type: "list",
                 name: "exitBack",
                 message: "Go Back or Exit?",
-                choices: ["Back", "Exit"]
+                choices: ["Go Back", "Exit"]
             })
             .then(choice => {
-                if (choice.exitBack == "Back") {
+                if (choice.choices == "Go Back") {
                     resumeHandler();
                 } else {
                     return;
