@@ -1,18 +1,24 @@
-# resume_CLI
+# DustinMcGilvray_Resume
 
 <p align="center">
   <img src =screenshots/resume_cli_banner.png/>
 </p>
 
 ## Overview
-Resume_CLI is a Node.js Command-Line Interface (CLI) application that allows users to explore my resume' via Node Package Manager (NPM).
+Resume_CLI is a Node.js Command-Line Interface (CLI) application that allows users to explore my resume' via Node Package Manager (NPM). 
 
 <p align="center">
   <img src =screenshots/resume_cli_prompt/>
 </p>
 
-### Link to App
-* [resume_CLI](https://dustinmcgilvray.github.io/Reeldex/.)
+### Link to NPM
+---
+* [resume_CLI](https://www.npmjs.com/package/dustinmcgilvray_resume)
+
+## Install and Run
+---
+* Install via NPM in the Terminal: npm i dustinmcgilvray_resume
+* Then run the application: dustinmcgilvray_resume
 
 ### Crafted With
 ---
@@ -22,6 +28,7 @@ Resume_CLI is a Node.js Command-Line Interface (CLI) application that allows use
 * Terminal
 
 ### Dependencies
+---
 * [Chalk](https://www.npmjs.com/package/chalk)
 * [Inquier](https://www.npmjs.com/package/inquirer)
 * [Boxen](https://www.npmjs.com/package/boxen)
@@ -38,3 +45,6 @@ Resume_CLI is a Node.js Command-Line Interface (CLI) application that allows use
 Dustin McGilvray
 Brandy Nicholson
 
+### Inspiration taken from:
+---
+[Tutorial by Divyansh Tripathi [SilentLad] ](https://blog.usejournal.com/how-to-make-your-r%C3%A9sum%C3%A9-an-npm-package-fc5d6b6a3fbd)
