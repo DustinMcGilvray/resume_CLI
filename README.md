@@ -8,7 +8,7 @@
 Resume_CLI is a Node.js Command-Line Interface (CLI) application that allows users to explore my resume' via Node Package Manager (NPM).
 
 <p align="center">
-  <img src =screenshots/resume_cli_prompt/>
+  <img src =screenshots/resume_cli_prompt.png/>
 </p>
 
 ### Link to App
