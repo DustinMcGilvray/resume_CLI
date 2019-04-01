@@ -1,6 +1,6 @@
 {
   "name": "dustinmcgilvray_resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dustin McGilvray Resume'",
   "main": "index.js",
   "scripts": {
@@ -28,5 +28,4 @@
   "bin": {
     "dustinmcgilvray_resume": "./index.js"
   }
-  
 }
