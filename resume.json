@@ -81,11 +81,13 @@
         {"Aptitudes":"\n Operations Management \n Team Leadership \n Process Improvement \n Relationship Management \n Project Management \n Coaching & Training \n Operational Streamlining Recruitment & Staffing \n Conflict/Issue Resolution \n Employee Engagement \n Budget Oversight \n P&L / Financial Management \n"
         }
     ],
-    "Contact": [
-        "Email: DustinMcGilvray@gmail.com",
-        "Phone: (254) 640-2904",
-        "GitHub: https://github.com/DustinMcGilvray",
-        "LinkedIn: https://www.linkedin.com/in/dustinmcgilvray/",
-        "Website:  https://dustinmcgilvray.github.io/Portfolio/"
+    "Contact": [ 
+        {
+        "Email": "DustinMcGilvray@gmail.com",
+        "Phone": "(254) 640-2904",
+        "GitHub": "https://github.com/DustinMcGilvray",
+        "LinkedIn": "https://www.linkedin.com/in/dustinmcgilvray/",
+        "Website":  "https://dustinmcgilvray.github.io/Portfolio/"
+        }
     ]
 }

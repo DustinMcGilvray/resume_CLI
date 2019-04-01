@@ -24,5 +24,9 @@
     "gradient-string": "^1.2.0",
     "inquirer": "^6.2.2",
     "terminal-link": "^1.2.0"
+  },
+  "bin": {
+    "dustinmcgilvray_resume": "./index.js"
   }
+  
 }
