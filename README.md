@@ -42,8 +42,8 @@ Resume_CLI is a Node.js Command-Line Interface (CLI) application that allows use
 
 ### Authors
 ---
-Dustin McGilvray
-Brandy Nicholson
+* [Dustin McGilvray](https://github.com/DustinMcGilvray)
+* [Brandy Nicholson](https://github.com/blnicholson)
 
 ### Inspiration taken from:
 ---
