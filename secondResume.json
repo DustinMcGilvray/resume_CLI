@@ -1,0 +1,37 @@
+{
+    "Education": [
+        "Athens High School", 
+        "Baylor University", 
+        "Arizona State University", 
+        "Louisiana Tech University", 
+        "Southern Methodist University"
+    ],
+    "Professional Experience": [
+        "Techshop, Inc.", 
+        "BFX Fire Apparatus",
+        "DB McGilvray Ceramics, LLC.",
+        "KJ Homes, Inc.",
+        "Trilogy Education"
+    ],
+    "Technical Skills": [
+        "HTML5", "CSS3", "JavaScript", "jQuery", 
+        "Node.js", "Slack", "Express.js", "React.js", 
+        "Database Theory", "MongoDB", "MySQL", "Command Line / Terminal", 
+        "Git", "Heroku", "Handlebars.js", "Bootstrap", "Materialize", "Skeleton"
+    ],
+    "Core Aptitudes": [
+        "Operations Management", "Team Leadership", 
+        "Process Improvement", "Relationship Management", 
+        "Project Management", "Coaching & Training", 
+        "Operational Streamlining", "Recruitment & Staffing", 
+        "Conflict/Issue Resolution", "Employee Engagement", 
+        "Budget Oversight", "P&L / Financial Management"
+    ],
+    "Contact": [
+        "Email: DustinMcGilvray@gmail.com",
+        "Phone: (254) 640-2904",
+        "GitHub: https://github.com/DustinMcGilvray",
+        "LinkedIn: https://www.linkedin.com/in/dustinmcgilvray/",
+        "Website:  https://dustinmcgilvray.github.io/Portfolio/"
+    ]
+}

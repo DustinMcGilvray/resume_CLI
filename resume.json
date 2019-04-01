@@ -22,7 +22,7 @@
         "Location": "Waco, TX"
         }
     ],
-    "Professional Experience": [
+    "Professional": [
         {
         "Year": "January 2019 - Present",
         "Employer": "Trilogy Education",
@@ -52,13 +52,12 @@
         "Summary": "Provided full management responsibility for membership-based, open-access, DIY workshops and fabrication studios offering advanced manufacturing tools, software and instruction to users. Oversaw P&L and targeted financial profitability; recruitment, development and ongoing morale of staff; marketing, sales and branding direction; membership experiences and client expectations; and community engagement."
         }   
     ],
-    "Technical Skills": [
-        "HTML5", "CSS3", "JavaScript", "jQuery", 
-        "Node.js", "Slack", "Express.js", "React.js", 
-        "Database Theory", "MongoDB", "MySQL", "Command Line / Terminal", 
-        "Git", "Heroku", "Handlebars.js", "Bootstrap", "Materialize", "Skeleton"
+    "Technical": [
+        {"Skills":
+        "\n HTML5 \n CSS3 \n JavaScript \n jQuery \n Node.js \n Slack \n Express.js \n React.js \n Database Theory \n MongoDB \n MySQL \n Command Line | Terminal \n Git \n Heroku \n Handlebars.js \n Bootstrap \n Materialize \n Skeleton \n"
+        }
     ],
-    "Focal Projects": [
+    "Projects": [
         {
         "Name": "Trading Grounds",
         "Overview": "An educational application that simulates the stock market using current real time stock prices, allowing users to gain experience in buying, selling, and tracking a portfolio. This app also allows the users to experience the highs and lows of the stock market and gain experience while not risking the loss of actual capital.",
@@ -78,13 +77,9 @@
         "Link": "https://agile-harbor-23067.herokuapp.com/"       
         }
     ],
-    "Core Aptitudes": [
-        "Operations Management", "Team Leadership", 
-        "Process Improvement", "Relationship Management", 
-        "Project Management", "Coaching & Training", 
-        "Operational Streamlining", "Recruitment & Staffing", 
-        "Conflict/Issue Resolution", "Employee Engagement", 
-        "Budget Oversight", "P&L / Financial Management"
+    "Core": [
+        {"Aptitudes":"\n Operations Management \n Team Leadership \n Process Improvement \n Relationship Management \n Project Management \n Coaching & Training \n Operational Streamlining Recruitment & Staffing \n Conflict/Issue Resolution \n Employee Engagement \n Budget Oversight \n P&L / Financial Management \n"
+        }
     ],
     "Contact": [
         "Email: DustinMcGilvray@gmail.com",
@@ -93,5 +88,4 @@
         "LinkedIn: https://www.linkedin.com/in/dustinmcgilvray/",
         "Website:  https://dustinmcgilvray.github.io/Portfolio/"
     ]
-
 }
