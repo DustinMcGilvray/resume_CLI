@@ -17,7 +17,7 @@ Resume_CLI is a Node.js Command-Line Interface (CLI) application that allows use
 
 ## Install and Run
 ---
-* Install via NPM in the Terminal: npm i dustinmcgilvray_resume
+* Install via NPM in the Terminal: npm i -g dustinmcgilvray_resume
 * Then run the application: dustinmcgilvray_resume
 
 ### Crafted With
